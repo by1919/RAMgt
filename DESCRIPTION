@@ -3,7 +3,7 @@ Title: Statistical tests in a Random-effects ANOVA Model
 Version: 0.0.1
 Imports: nloptr
 Description: This package implements a generalized test for a random-effects ANOVA model,
-   with application to medical comparison problem (e.g. equivalency test of pulse oximetry systems).
+   with application to diagnostic measure comparison problem (e.g. equivalency test of pulse oximetry systems).
 Depends: 
     R (>= 3.0.0)
 License: GPL (>= 2)

@@ -56,5 +56,5 @@ Tsui,K.-W. and Weerahandi,S. (1989). Generalized p-Values in Significance Testin
 
 Weerahandi,S. (1993). Generalized Confidence Intervals. Journal of the American Statistical Association 88, 899–905.
 
-Bai,Y., Wang,Z., Lystig,T., and Wu,B. (2019) Efficient and powerful equivalency test on combined mean and variance with application to diagnostic device comparison studies. tech report.
+Bai,Y., Wang,Z., Lystig,T., and Wu,B. (2019) Efficient and powerful equivalency test on combined mean and variance with application to diagnostic device comparison studies. arXiv:1908.07979
 }

@@ -50,7 +50,7 @@ GTci <- function(obj, alpha=0.1){
 #' 
 #' Weerahandi,S. (1993). Generalized Confidence Intervals. Journal of the American Statistical Association 88, 899–905.
 #' 
-#' Bai,Y., Wang,Z., Lystig,T., and Wu,B. (2019) Efficient and powerful equivalency test on combined mean and variance with application to diagnostic device comparison studies. tech report.
+#' Bai,Y., Wang,Z., Lystig,T., and Wu,B. (2019) Efficient and powerful equivalency test on combined mean and variance with application to diagnostic device comparison studies. arXiv:1908.07979
 #' @examples
 #' ## Simulation example: how to get summary stats from data
 #' A = rep(1:10, 5:14)
@@ -151,7 +151,7 @@ print.RMStest <- function(obj){
 #'
 #' Pennello, G. A. (2003). Comparing monitoring devices when a gold standard in unavailable: Application to pulse oximeters. ASA Proceedings of the Joint Statistical Meetings pages 3256–3263.
 #' 
-#' Bai,Y., Wang,Z., Lystig,T., and Wu,B. (2019) Efficient and powerful equivalency test on combined mean and variance with application to diagnostic device comparison studies. tech report.
+#' Bai,Y., Wang,Z., Lystig,T., and Wu,B. (2019) Efficient and powerful equivalency test on combined mean and variance with application to diagnostic device comparison studies. arXiv:1908.07979
 #' @examples
 #' A = rep(1:10, 5:14)
 #' Y = 0.5+rnorm(length(A))+rnorm(length(unique(A)))[A]
