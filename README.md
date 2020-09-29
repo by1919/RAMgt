@@ -5,7 +5,7 @@
  - Sample R codes
 ```R
  ## install the package
- ## devtools::install_github('baolinwu/RAMgt')
+ ## devtools::install_github('by1919/RAMgt')
 library(RAMgt)
 ## Simulation example: how to get summary stats from data
 A = rep(1:10, 5:14)
